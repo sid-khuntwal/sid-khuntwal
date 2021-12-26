@@ -21,3 +21,20 @@
 - ⚡ Fun fact: I love to draw and play guitar.
 
 
+#### 👨🏻‍💻 Mostly Used Languages, Frameworks :
+
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
+
+
+#### 👨🏻‍💻 Familiar With :
+
+
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sid-khuntwal&theme=onedark&column=3&margin-w=15&margin-h=15">
+    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sid-khuntwal&theme=tokyonight&count_private=true)
+
+![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=sid-khuntwal&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+    
+![Siddharth's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sid-khuntwal)
