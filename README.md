@@ -3,7 +3,7 @@
 <p>
   <em>
     I am a 2nd Year undergraduate from <a href="https://lnct.ac.in/"> <b>Lakshmi Narain College of Technology</b>, Bhopal </a>.  
-    A budding <b>Software Developer</b> 👨🏼‍💻, <b>Content Ctreator<b> 🕵🏼, <b>Teacher<b> 🧑🏼‍🏫 and a <b>Design Enthusiast 🎨,  who is <b>obsessed</b>
+    A budding <b>Software Developer</b> 👨🏼‍💻, <b>Content Creator<b> 🕵🏼, <b>Teacher<b> 🧑🏼‍🏫 and a <b>Design Enthusiast 🎨,  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> 🚀and 
     <b>excel.</b> 🏅
